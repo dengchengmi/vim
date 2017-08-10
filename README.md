@@ -44,7 +44,21 @@ j: 跳到当前目录下同级的后一个结点
 
 #### tab切换
 
+```
+:tabnew [++opt选项] ［＋cmd］ 文件      建立对指定文件新的tab
+```
 
+```
+:tabc   关闭当前的 tab
+:tabo   关闭所有其他的 tab
+:tabs   查看所有打开的 tab
+:tabp   前一个 tab
+:tabn   后一个 tab
+
+标准模式下：
+gT      前一个 tab
+gt      后一个 tab
+```
 
 
 
