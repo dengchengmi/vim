@@ -56,5 +56,10 @@ gT      前一个 tab
 gt      后一个 tab
 ```
 
+```
+ctrl+f 向前一页
+ctrl+b 向后一页
+```
+
 
 
